@@ -2,6 +2,7 @@
 A C# project that remove android source code Log.
 
 这个工程主要用来删除android 源代码里的Log代码，如Log.d("tag", "debug info");
+
 命令行运行:
 rmcode.exe srcfolder keyword outfolder
 暂时不支持绝对路径.
